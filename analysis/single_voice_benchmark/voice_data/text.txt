@@ -1,0 +1,25 @@
+File SRT là gì mà khiến dân làm Việt sub mê mẩn như vậy?
+
+Nghe thì có vẻ cao siêu, nhưng thật ra file SRT cao siêu thật sự vì nó chứa phụ đề cho video.
+
+Nó ghi lại từng câu thoại, thời gian bắt đầu, thời gian kết thúc, rồi giúp phần mềm biết chính xác lúc nào phải hiện câu nào trên màn hình.
+
+Và đây mới là thứ sẽ khiến dân làm nội dung mê mẩn.
+
+Thay vì phải ngồi gõ từng câu, căn từng đoạn phụ đề, rồi lại tạo giọng đọc bằng tay, Kiên Đoàn Studio đã code hẳn một tính năng chuyển file SRT thuần túy thành âm thanh.
+
+Bạn chỉ cần chuẩn bị một file SRT có sẵn lời thoại, vào trang web của chúng tôi chọn giọng đọc, hệ thống sẽ tự đọc nội dung trong file và chuyển nó thành file âm thanh hoàn chỉnh.
+
+Không cần nhập lại từng câu.
+
+Không cần copy paste từng đoạn.
+
+Và đặc biệt là miễn phí 100%.
+
+Sau khi có file âm thanh, bạn chỉ việc đưa nó vào CapCut hoặc phần mềm chỉnh sửa video, kết hợp với file SRT để căn phụ đề.
+
+Một file SRT, từ phụ đề… biến thẳng thành giọng đọc cho video.
+
+Nếu bạn thường xuyên làm TikTok, Reels hay Shorts thì tính năng này có thể giúp bạn tiết kiệm kha khá thời gian.
+
+Hãy chia sẻ nội dung này nếu bạn thấy hữu ích vì chúng tôi tin chắc rằng có rất nhiều người đang tìm kiếm tính năng này miễn phí, hihi
